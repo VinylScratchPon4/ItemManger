@@ -1,0 +1,10 @@
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.xml
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.vbprojResolveAssemblyReference.cache
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.Resources.resources
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.vbproj.GenerateResource.Cache
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.xml
+C:\Users\zakbo\Documents\Coding\C#\Testing\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
